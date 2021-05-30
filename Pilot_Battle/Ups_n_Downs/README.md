@@ -2,7 +2,7 @@
 <img src="https://cssbattle.dev/targets/4.png">
 
 ```HTML
-    <div id="a"></div>
+<div id="a"></div>
 <style>*{background:#62306D;}
   div,div::after,div::before{
     background:#F7EC7D;
