@@ -1,5 +1,5 @@
 # Ups n Downs
-<img src="https://cssbattle.dev/targets/3.png">
+<img src="https://cssbattle.dev/targets/4.png">
 
 ```HTML
     <div id="a"></div>
