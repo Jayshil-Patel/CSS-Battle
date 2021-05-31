@@ -1,0 +1,17 @@
+# Totally Triangle
+<img src="https://cssbattle.dev/targets/13.png">
+
+```HTML
+<div></div>
+<style>*{background:#0B2429;}
+  div{
+    background:#F3AC3C;
+    transform: rotate(45deg);
+    height:200px;
+    width:200px;
+ 	position:absolute;
+  	top:-100;
+    left:-100;
+  }
+</style>
+```
