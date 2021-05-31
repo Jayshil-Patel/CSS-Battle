@@ -4,7 +4,7 @@
 <a href="https://github.com/Jayshil-Patel/CSS-Battle/tree/main/Pilot_Battle/Carrom"><img src="https://cssbattle.dev/targets/2.png"></a>
 <a href="https://github.com/Jayshil-Patel/CSS-Battle/tree/main/Pilot_Battle/Push_Button"><img src="https://cssbattle.dev/targets/3.png"></a>
 <a href="https://github.com/Jayshil-Patel/CSS-Battle/tree/main/Pilot_Battle/Ups_n_Downs"><img src="https://cssbattle.dev/targets/4.png"></a>
-<a href="https://github.com/Jayshil-Patel/CSS-Battle/tree/main/Pilot_Battle/Acid_Rain"><img src="https://cssbattle.dev/targets/5.png"></a>  
+<a href="https://github.com/Jayshil-Patel/CSS-Battle/tree/main/Pilot_Battle/Acid_Rain"><img src="https://cssbattle.dev/targets/5.png"></a>
 <a href="https://github.com/Jayshil-Patel/CSS-Battle/tree/main/Pilot_Battle/Missing_Slice"><img src="https://cssbattle.dev/targets/6.png"></a>
 <a href="https://github.com/Jayshil-Patel/CSS-Battle/tree/main/Pilot_Battle/Leafy_trail"><img src="https://cssbattle.dev/targets/7.png"></a>  
 <a href="https://github.com/Jayshil-Patel/CSS-Battle/tree/main/Pilot_Battle/Forking_Crazy"><img src="https://cssbattle.dev/targets/8.png"></a>
