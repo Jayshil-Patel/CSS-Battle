@@ -1,5 +1,6 @@
 # CSS-Battle
 This repository consists of my submissions to CSS battle, where people do competitive CSS battles
+This project comprises of my submission to CSS battles held to hone the logical stylesheet development and achieve complex shapes using as minimal lines of code as possible
 
 # Pilot Battle
 
